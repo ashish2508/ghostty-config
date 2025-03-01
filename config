@@ -1,0 +1,26 @@
+
+#   /home/ash/.config/ghostty/config
+#
+shell-integration-features = no-cursor,sudo,no-title
+adjust-cell-height = 8%
+
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
+
+background = 000000
+theme = rose-pine
+window-titlebar-background = 212121
+window-padding-color = extend-always
+font-family = Noto Sans Mono
+font-size = 14
+font-feature = -liga
+cursor-style = block
+
+
+window-padding-balance = true 
+window-save-state = always
+macos-titlebar-style=transparent 
+window-save-state = always
+
+copy-on-select = clipboard
+
