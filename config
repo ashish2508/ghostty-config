@@ -1,7 +1,9 @@
-
 #   /home/ash/.config/ghostty/config
-#
-shell-integration-features = no-cursor,sudo,no-title
+
+fullscreen = true
+shell-integration = bash
+clipboard-read = allow
+clipboard-write = allow
 adjust-cell-height = 8%
 
 mouse-hide-while-typing = true
@@ -19,7 +21,6 @@ cursor-style = block
 
 window-padding-balance = true 
 window-save-state = always
-macos-titlebar-style=transparent 
-window-save-state = always
+window-theme = dark
 
 
